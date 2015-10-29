@@ -1,0 +1,2 @@
+set path=%path%;D:\bea12\jdk160_29\bin;
+set classpath=%classpath%;D:\ECLIPSEWORKSPACE\Tools\SplitMergePDF\Tools-PDFOps-SplitPDF\itextpdf-5.5.7.jar;D:\ECLIPSEWORKSPACE\Tools\SplitMergePDF\Tools-PDFOps-SplitPDF\com.lowagie.text-2.1.7.jar;
